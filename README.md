@@ -1,6 +1,8 @@
 # edge-tts-webui-FR
 
-`edge-tts-webui` [edge-tts](https://github.com/rany2/edge-tts) est la version de l’interface web de edge-tts, développée avec `gradio`.
+`edge-tts-webui-FR` [edge-tts](https://github.com/rany2/edge-tts) est la version de l’interface web en Français de edge-tts, développée avec `gradio`.
+
+![](Snipaste.png)
 
 ## Installation
 
