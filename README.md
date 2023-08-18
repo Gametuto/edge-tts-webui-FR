@@ -1,22 +1,20 @@
-# edge-tts-webui
+# edge-tts-webui-FR
 
-`edge-tts-webui` 是 [edge-tts](https://github.com/rany2/edge-tts)的web界面版，采用`gradio`进行开发
+`edge-tts-webui` [edge-tts](https://github.com/rany2/edge-tts) est la version de l’interface web de edge-tts, développée avec `gradio`.
 
-![](Snipaste.png)
-
-## 安装
+## Installation
 
     pip install edge-tts
     pip install gradio
     pip install asyncio
 
-## 运行
+## Exécution
 
     python app.py
 
-## 使用
+## Utilisation
 
-浏览器访问
+Accédez à l’application via votre navigateur en visitant
 ```
 localhost:7860
 ```
